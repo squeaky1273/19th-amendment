@@ -24,5 +24,3 @@ info site on the 19th amendment
 ## Contributer(s)
 - Padyn Riddell - [@squeaky1273](https://github.com/squeaky1273)  
 - Marcos Abadi - [@mabadinakach](https://github.com/mabadinakach) 
-
-## Sources
